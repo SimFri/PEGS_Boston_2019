@@ -605,7 +605,7 @@ plot(cdr3_cluster, cex = 0.5)
 # Hands on repertorie -----------------------------------------------------
 
 ## Module 3 - loading into R or python, and filtering,
-mixcr_output <- read.table("~/Desktop/mixcr_output_seqs.txt",
+mixcr_output <- read.table("~/Data/mixcr_output_seqs.txt",
            sep=",", header = TRUE, stringsAsFactors=FALSE, fill=TRUE)
 
 ## Mixcr output is read in as a data frame with the columns corresponding to 
