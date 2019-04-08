@@ -136,7 +136,7 @@ logical_vector[-1] ## can remove specified items in vector
 
 cdr3_lengths==22
 
-cdr3_lengths[cdr3_lengths==22] # all values excluding 22
+cdr3_lengths[!cdr3_lengths==22] # all values excluding 22
 
 
 ## combining vectors
