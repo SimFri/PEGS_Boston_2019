@@ -1,10 +1,10 @@
 
 ####################################################
-## 2018 PEGS Lisbon 
+## 2019 PEGS Boston 
 ## Immune repertoires with R
-## Simon Friedensohn, Alexander Yermanos, Sai T Reddy
+## Simon Friedensohn, Derek Mason, Sai T Reddy
 ## ETH Zurich 
-## simon.friedensohn@bsse.ethz.ch, ayermano@ethz.ch
+## simon.friedensohn@bsse.ethz.ch, derek.mason@bsse.ethz.ch
 ## sai.reddy@ethz.ch
 ####################################################
 
